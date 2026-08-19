@@ -19,3 +19,4 @@ data
 *.png
 *.keras
 .env
+*.mp3
