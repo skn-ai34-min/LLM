@@ -20,3 +20,5 @@ data
 *.keras
 .env
 *.mp3
+*.jsonl
+*.json
