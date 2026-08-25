@@ -22,3 +22,5 @@ data
 *.mp3
 *.jsonl
 *.json
+*.pdf
+db/
