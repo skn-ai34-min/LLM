@@ -26,3 +26,5 @@ data
 db/
 
 *.db
+
+chroma_db/
