@@ -28,3 +28,4 @@ db/
 *.db
 
 chroma_db/
+*.parquet
